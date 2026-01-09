@@ -87,6 +87,3 @@ This project demonstrates practical data analysis skills by transforming raw fin
 **Aryaa Ajitabh Kumar**
 
 ---
-
-Just tell me 👍
-
