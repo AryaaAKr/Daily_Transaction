@@ -25,6 +25,7 @@ The **Daily Transactions Analysis Project** focuses on analyzing an individualâ€
 ## ðŸ“‚ Dataset Description
 
 The dataset contains dummy daily transaction records with the following columns:
+
 Dataset: https://github.com/AryaaAKr/Daily_Transaction/blob/main/Daily%20Household%20Transactions.csv
 
 * **Date:** Date and time of transaction
